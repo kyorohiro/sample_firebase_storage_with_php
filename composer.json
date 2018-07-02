@@ -1,0 +1,11 @@
+{
+    "name": "kyorohiro/firebase-srotage-examples",
+    "license": "MIT",
+    "description": "Storage Examples for https://github.com/kreait/firebase-php",
+    "require": {
+        "php": "^7.1.3",
+        "ext-iconv": "*",
+        "kreait/firebase-php": "^4.4",
+        "kreait/firebase-bundle": "^1.1"
+    }
+}
